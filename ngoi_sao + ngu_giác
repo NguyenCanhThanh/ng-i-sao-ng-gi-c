@@ -1,5 +1,5 @@
-1. v
-#include<ros/ros.h>
+1. ve_ngoi_sao
+#incolee <ros / ros.h>
 #include<geometry_msgs/Twist.h>
 #include<turtlesim/Pose.h>
 
@@ -135,7 +135,7 @@ int main(int argc, char** argv)
     return 0;
 }
 
-1. v
+2. ve_ngu_giac
 #include<ros/ros.h>
 #include<geometry_msgs/Twist.h>
 #include<turtlesim/Pose.h>
