@@ -11,7 +11,7 @@ using namespace std;
 float x,y,z,v,vt;
 float prevx, prevy;
 int state = 0;
-ros::Publisher pub1;
+ros::Publisher pub;
 
 float target_angle, target_distance; 
 const float PI = 3.14159265;
@@ -148,7 +148,7 @@ using namespace std;
 float x,y,z,v,vt;
 float prevx, prevy;
 int state = 0;
-ros::Publisher pub1;
+ros::Publisher pub;
 
 float target_angle, target_distance; 
 const float PI = 3.14159265;
